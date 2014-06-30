@@ -1,0 +1,1 @@
+Exception handling is used to to handle the possibility of an error in a given program. Without exception handling, the program will stop working when it detects a problem.

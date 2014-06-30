@@ -1,0 +1,13 @@
+has_value?
+
+
+hash = {
+  a: "abc",
+  b: "xyz"
+}
+
+if hash.has_value?("xyz")
+  p "yes!"
+else
+  p "no"
+end
